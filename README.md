@@ -3,7 +3,7 @@ layout: page
 title: "Hitchens"
 ---
 
-An inarguably well-designed [Jekyll](http://jekyllrb.com) theme by [Pat Dryburgh](https://patdryburgh.com).
+I think this yellow is too bright
 
 ![Hitchens Preview](https://raw.githubusercontent.com/patdryburgh/hitchens/master/screenshot.png)
 
